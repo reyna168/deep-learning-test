@@ -36,6 +36,12 @@ http://ycszen.github.io/2016/08/17/TensorFlow%E9%AB%98%E6%95%88%E8%AF%BB%E5%8F%9
  //OCW MIT MDP
  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/lecture-notes/Lecture20FinalPart1.pdf
  
+ //李飛飛
+ 
+ http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture14.pdf
+ 
+ 
+ 
  
  
  
