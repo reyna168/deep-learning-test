@@ -43,7 +43,7 @@ http://ycszen.github.io/2016/08/17/TensorFlow%E9%AB%98%E6%95%88%E8%AF%BB%E5%8F%9
  Reinforcement Learning: An Introduction
  http://incompleteideas.net/book/bookdraft2018jan1.pdf
  
- 
+ https://github.com/dennybritz/reinforcement-learning
  
  
  
