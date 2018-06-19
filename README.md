@@ -46,10 +46,18 @@ http://ycszen.github.io/2016/08/17/TensorFlow%E9%AB%98%E6%95%88%E8%AF%BB%E5%8F%9
  https://github.com/dennybritz/reinforcement-learning
  
  //機器學習十本免費書
+ 
   https://zhuanlan.zhihu.com/p/38211989
   
   //知乎 機器學習
+  
   https://www.zhihu.com/topic/19559450/hot
+  
+  //《Sklearn 与 TensorFlow 机器学习实用指南》 第6章 决策树
+  
+  
+  https://github.com/apachecn/hands_on_Ml_with_Sklearn_and_TF
+  
  
  
  
