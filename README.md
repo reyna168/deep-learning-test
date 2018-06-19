@@ -59,6 +59,9 @@ http://ycszen.github.io/2016/08/17/TensorFlow%E9%AB%98%E6%95%88%E8%AF%BB%E5%8F%9
   https://github.com/apachecn/hands_on_Ml_with_Sklearn_and_TF
   
  
+ //吳恩達中文版筆記机器学习之路
+
+https://zhuanlan.zhihu.com/p/30393923
  
  
  
