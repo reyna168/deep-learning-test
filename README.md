@@ -62,7 +62,8 @@ http://ycszen.github.io/2016/08/17/TensorFlow%E9%AB%98%E6%95%88%E8%AF%BB%E5%8F%9
  //吳恩達中文版筆記机器学习之路
 
 https://zhuanlan.zhihu.com/p/30393923
- 
- 
- 
+  
+  //完结篇 | 吴恩达deeplearning.ai专项课程精炼笔记全部汇总
+  
+   https://zhuanlan.zhihu.com/p/36453627
 
