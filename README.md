@@ -66,4 +66,10 @@ https://zhuanlan.zhihu.com/p/30393923
   //完结篇 | 吴恩达deeplearning.ai专项课程精炼笔记全部汇总
   
    https://zhuanlan.zhihu.com/p/36453627
+   
+// 部落格 Python學習筆記
+
+http://psop-blog.logdown.com/posts/3020978-python-matplotlib
+
+   
 
