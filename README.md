@@ -70,6 +70,13 @@ https://zhuanlan.zhihu.com/p/30393923
 // 部落格 Python學習筆記
 
 http://psop-blog.logdown.com/posts/3020978-python-matplotlib
+ 
+//TensorFlow學習線路
 
-   
+https://www.zhihu.com/question/41667903/answer/109611087
+https://github.com/jtoy/awesome-tensorflow
+
+
+
+
 
