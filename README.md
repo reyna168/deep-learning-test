@@ -76,7 +76,10 @@ http://psop-blog.logdown.com/posts/3020978-python-matplotlib
 https://www.zhihu.com/question/41667903/answer/109611087
 https://github.com/jtoy/awesome-tensorflow
 
+//台大許育杰老師 machine learning
+https://www.youtube.com/watch?v=B-AoHE6dPnk&list=PLj6E8qlqmkFsX5CdI52f60RG_CBpNZj0K
 
-
+//巨量資料分析 
+https://www.youtube.com/watch?v=eQGoPyL7vT8&index=12&list=PLj6E8qlqmkFv1rlU7BGntOGe_RFnrv9Ip
 
 
