@@ -82,4 +82,6 @@ https://www.youtube.com/watch?v=B-AoHE6dPnk&list=PLj6E8qlqmkFsX5CdI52f60RG_CBpNZ
 //巨量資料分析 
 https://www.youtube.com/watch?v=eQGoPyL7vT8&index=12&list=PLj6E8qlqmkFv1rlU7BGntOGe_RFnrv9Ip
 
+//吴恩达《卷积神经网络》课程笔记（1）– 卷积神经网络基础
+https://redstonewill.com/1215/
 
