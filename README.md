@@ -85,3 +85,11 @@ https://www.youtube.com/watch?v=eQGoPyL7vT8&index=12&list=PLj6E8qlqmkFv1rlU7BGnt
 //吴恩达《卷积神经网络》课程笔记（1）– 卷积神经网络基础
 https://redstonewill.com/1215/
 
+//[LBS]工業界ETA應用及滴滴WDR技術
+https://hk.saowen.com/a/7e5252088a424a94f3ab33b343029507a02894b51025bce5b0d7bb841c04486b
+
+
+
+
+
+
