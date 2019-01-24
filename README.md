@@ -88,6 +88,9 @@ https://redstonewill.com/1215/
 //[LBS]工業界ETA應用及滴滴WDR技術
 https://hk.saowen.com/a/7e5252088a424a94f3ab33b343029507a02894b51025bce5b0d7bb841c04486b
 
+//Coursera專項課程推薦：金融中的機器學習和強化學習
+https://hk.saowen.com/a/aade60afa654b80bee617df3470eadb9f27c24e20a7c368e03b70682fa78a3ac
+
 
 
 
